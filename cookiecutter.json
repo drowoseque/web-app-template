@@ -1,0 +1,4 @@
+{
+  "microservice_name": "my-new-microservice",
+  "package_name": "{{ cookiecutter.microservice_name|replace('-', '_') }}"
+}
