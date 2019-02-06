@@ -1,2 +1,2 @@
 # wwac
-why writeing async code
+why writing async code
